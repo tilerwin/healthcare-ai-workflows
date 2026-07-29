@@ -1,26 +1,3 @@
-# Hi, I'm Tyler Nguyen 👋
-
-Doctor of Chiropractic Student Candidate focused on clinical rehabilitation, healthcare AI, and workflow automation.
-
-## Current Interests
-
-- 🏥 Healthcare AI
-- 🤖 Clinical Workflow Automation
-- 💪 Rehabilitation & Corrective Exercise
-- 📚 Human-Centered AI
-- 📈 Independent Practice Innovation
-
-## Current Projects
-
-- AI-assisted SOAP documentation
-- Clinical workflow automation
-- Patient education systems
-- Rehabilitation exercise libraries
-
-## Mission
-
-Helping clinicians spend less time documenting and more time caring for patients.
-
 # Future Roadmap
 
 ## Short-Term Goals
