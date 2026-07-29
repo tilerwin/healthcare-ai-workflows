@@ -1,6 +1,6 @@
 # Hi, I'm Tyler Nguyen 👋
 
-Doctor of Chiropractic Candidate focused on clinical rehabilitation, healthcare AI, and workflow automation.
+Doctor of Chiropractic Student Candidate focused on clinical rehabilitation, healthcare AI, and workflow automation.
 
 ## Current Interests
 
